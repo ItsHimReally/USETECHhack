@@ -1,0 +1,83 @@
+.article{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+.content {
+    grid-template-columns: 1fr;
+    padding: 0 calc(20% - 45px);
+}
+.StartNaming{
+    font-family: "Inter", sans-serif;
+}
+.atitle{
+    font-family: "Alegreya", sans-serif;
+    font-weight: 700;
+    font-size: 30px;
+    margin-bottom: 5px;
+}
+.atext{
+    font-family: "Alegreya", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+.article{
+    background: #fff;
+    padding: 10px;
+    border-radius: 15px;
+}
+.button{
+    font-size: 15px;
+}
+
+@media (max-width: 650px) {
+    .page{
+        margin: 70px 20px 20px 20px;
+    }
+    .content {
+        padding: 0 20px;
+    }
+}
+
+.pages{
+    margin: 20px 0;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    font-family: "Roboto", Arial, sans-serif;
+    font-size: 16px;
+}
+.buttonsPages{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.buttonPage, .buttonPageMore{
+    font-size: 25px;
+}
+.buttonPage{
+    width: 30px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    color: #ba0000;
+    border-radius: 100%;
+    border: 1px solid #e77070;
+    padding-bottom: 30px;
+    margin: 5px;
+}
+.horlist{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+.date{
+    font-family: "Inter", Arial, sans-serif;
+    color: #818181;
+}
+.warning{
+    color: red;
+    font-family: "Inter", Arial, sans-serif;
+}

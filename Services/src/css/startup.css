@@ -1,0 +1,10 @@
+.header{
+    padding: 20px 20px 20px 70px;
+    display: flex;
+    flex-direction: column;
+    background: #ffb2b2;
+}
+.header .name{
+    font-size: 50px;
+    font-family: "Inter", Arial, sans-serif;
+}
