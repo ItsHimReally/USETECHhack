@@ -1,7 +1,7 @@
 <h1 align='center'>**USEcure**</h1>
 <h3 align='center'>
 Кейс №3 Информационная безопасность"
-*[USETECH HACK 2023](https://usetechhack.ru/ "USETECH HACK 2023")*
+*USETECH HACK 2023*
 
 <img src="https://img.shields.io/badge/USETECH-gray?style=plastic&logo=git&logoColor=green&link=https%3A%2F%2Fusetechhack.ru%2F"> <img src="https://img.shields.io/badge/%D0%9A%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%B0%20%D0%91%D0%95%D0%97%D0%A3%D0%9C%D0%A6%D0%AB-green?style=plastic&
 ">
